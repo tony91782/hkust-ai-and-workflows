@@ -1,0 +1,24 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.nav
+*.snm
+
+# Non-HKUST slide build (keep only slides_hkust.pdf and its source)
+slides/slides.pdf
+slides/slides.tex
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Other materials folder
+other material/
