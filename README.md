@@ -14,6 +14,3 @@
 ## Wiki reference
 https://velikov-mihail.github.io/ai-econ-wiki/  
 Maintained by Mihail Velikov (Penn State Smeal) — future colleague.
-
-## Second lecture (April 27)
-Topic: AI in Finance Research (separate outline TBD — social media, LLMs, disagreement measurement angle)
